@@ -1,0 +1,6 @@
+1. git status:- this command is used to check the state of working directory.
+2. git init:-   this command is used to convert existing unversioned project to a git repository or initialize new ,empty repository.
+3. git add -A:- this command adds a change in working directory to staging area.
+4. git commit -m "any message":- this commmand is used to save changes to local repository.
+5. git push -u origin master:-   this command is used to upload local repository content to remote repository.
+6. git remote add origin"url":-  this command is used to add remote in the directory where your repository is stored. 
